@@ -1,4 +1,4 @@
-# Using Git with you z/OS Connect Projects
+# Using Git with you z/OS Connect Projects <!-- omit in toc -->
 
 ### Introduction
 
@@ -21,11 +21,11 @@ _TBD once code pattern is finished_
 
 If you have any questions, feel free to leave an Issue on this GitHub repository.
 
-### Steps: 
-- 1. [Set Up](#1-set-up)
-- 2. [Navigating the z/OS Connect Perspective](#2-navigating-the-zos-connect-perspective)
-- 3. [Repository Organization Best Practices](#3-repository-organization-best-practices)
-- 4. [Working with Git](#4-working-with-git)
+ ### Steps: <!-- omit in toc -->
+- [1. Set Up](#1-set-up)
+- [2. Navigating the z/OS Connect Perspective](#2-navigating-the-zos-connect-perspective)
+- [3. Repository Organization best practices](#3-repository-organization-best-practices)
+- [4. Working with Git](#4-working-with-git)
 
 ## 1. Set Up
 ## 2. Navigating the z/OS Connect Perspective 
