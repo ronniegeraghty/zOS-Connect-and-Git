@@ -37,6 +37,8 @@ If you have any questions, feel free to leave an Issue on this GitHub repository
   ![Copy Clone Link](docs/images/1.2-CopyCloneLink.png)
 
 - **1.3 Open your Editor:** Now open IBM Explorer for z/OS, or any other IBM Eclipse based editor, like IBM Deverloper for z/OS (IDz).
+- **1.4 Navigate to the Git Perspective:** Once your Eclipse editor is open, navigated to the Git Perspective by clicking the **Window** tab, then click **Perspective** >> **Open Perspective** >> **Other...**
+  ![Open Perspective Menu](docs/images/1.4-OpenPerspectiveMenu.png)
 
 ## 2. Navigating the z/OS Connect Perspective
 
