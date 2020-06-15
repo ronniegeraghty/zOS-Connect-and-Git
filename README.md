@@ -36,7 +36,7 @@ If you have any questions, feel free to leave an Issue on this GitHub repository
 - **1.2 Clone the Repository:** Once the fork has finished, Click the green **Clone or download** button. Then, in the drop down, click the **clipboard** button to copy the link to your GitHub repositroy.
   ![Copy Clone Link](docs/images/1.2-CopyCloneLink.png)
 
--
+- **1.3 Open your Editor:** Now open IBM Explorer for z/OS, or any other IBM Eclipse based editor, like IBM Deverloper for z/OS (IDz).
 
 ## 2. Navigating the z/OS Connect Perspective
 
