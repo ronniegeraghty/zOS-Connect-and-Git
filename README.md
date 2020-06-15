@@ -33,6 +33,11 @@ If you have any questions, feel free to leave an Issue on this GitHub repository
 - **1.1 Fork This Repository:** Click the **Fork** button at the top of this GitHub Repository. This will create a GitHub repositroy under your own account identical to this one. This will give you permission to make changes to the repo.
   ![Fork Repo Button](docs/images/1.1-ForkRepo.png)
 
+- **1.2 Clone the Repository:** Once the fork has finished, Click the green **Clone or download** button. Then, in the drop down, click the **clipboard** button to copy the link to your GitHub repositroy.
+  ![Copy Clone Link](docs/images/1.2-CopyCloneLink.png)
+
+-
+
 ## 2. Navigating the z/OS Connect Perspective
 
 ## 3. Repository Organization best practices
