@@ -40,6 +40,9 @@ If you have any questions, feel free to leave an Issue on this GitHub repository
 - **1.4 Navigate to the Git Perspective:** Once your Eclipse editor is open, navigated to the Git Perspective by clicking the **Window** tab, then click **Perspective** >> **Open Perspective** >> **Other...**
   ![Open Perspective Menu](docs/images/1.4-OpenPerspectiveMenu.png)
 
+- **1.5 Select Git Perspective:** In the dropdown select **Git**, then click **OK**. ![Select Git](docs/images/1.5-SelectGit.png)
+- **1.6 Clone Repo:** Once the Git Perspective opens up, Click the **Clone a Git repository** button. _Either of the buttons shown in the picture below will work._![Clone Repo Link](docs/images/1.6-CloneRepoLink.png)
+
 ## 2. Navigating the z/OS Connect Perspective
 
 ## 3. Repository Organization best practices
