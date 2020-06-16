@@ -42,6 +42,7 @@ If you have any questions, feel free to leave an Issue on this GitHub repository
 
 - **1.5 Select Git Perspective:** In the dropdown select **Git**, then click **OK**. ![Select Git](docs/images/1.5-SelectGit.png)
 - **1.6 Clone Repo:** Once the Git Perspective opens up, Click the **Clone a Git repository** button. _Either of the buttons shown in the picture below will work._![Clone Repo Link](docs/images/1.6-CloneRepoLink.png)
+- **1.7 Enter Repository Info:** In the pop-up window paste the link we copied off your GitHub repository into the **URI:** field. The **Host:** and **Repository path:** fields should auto completed based on the URI you entered. Enter your GitHub username and password in the **Authentication** section at the bottom of the window, then click the **Next >** button.![Enter URI](docs/images/1.7-EnterURI.png)
 
 ## 2. Navigating the z/OS Connect Perspective
 
