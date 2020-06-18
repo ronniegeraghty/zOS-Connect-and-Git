@@ -10,7 +10,7 @@ This work is being done as part of a series of code patterns and tutorials cente
 
 - IBM Explorer for z/OS must be installed, or any other IBM Eclipse based editor. If it is not installed please reference this guide on doing so: [Installing IBM Explorer for z/OS Aqua](https://www.ibm.com/support/knowledgecenter/en/SSBDYH_3.2/com.ibm.zexpl.install.client.doc/topics/install20.html)
 - The EGit plugin for Eclipse. If you do not have the plugin installed you can follow the instructions in our other code pattern in this series that goes over how to install the plugin and work with git using the plugin. [EGit Installation for IBM Explorer for z/OS]() _Link needs to be added once the code pattern is published_
-- The z/OS Connect EE Perspective. _Not sure if this is something we should include steps for getting installed or if there is already an asset for this out there._
+- The z/OS Connect EE Perspective. If the z/OS Connect EE Perspective is not install on your copy of IBM Explorer for z/OS then please refer to this guide on doing so: [Installing z/OS Explorer and the z/OS Connect EE API toolkit](https://www.ibm.com/support/knowledgecenter/SS4SVW_beta/installing/install_explorer.html)
 - A GitHub account. If you don't already have a GitHub account, you can [create a GitHub account here.](https://github.com/join)
 
 ### Estimated time
