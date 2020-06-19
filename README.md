@@ -46,7 +46,7 @@ If you have any questions, feel free to leave an Issue on this GitHub repository
 - **1.8 Select a Branch:** Make sure that the checkbox next to the **master** option is checked. Then click **Next >**. ![Select Branch](docs/images/1.8-SelectBranch.png)
 - **1.9 Finish Cloning:** In the next window, leave the default options and click the **Finish** button. ![Finish Cloning](docs/images/1.9-FinishCloning.png)
 - **1.10 Examine Repository:** You should now see your repository in the **Git Repositories** view. Click the dropdown arrow to the left of the repository. Then click the dropdown arror next to the **Working Tree** section. _Note: The working tree shows the files and directories in the git repository._![Examine Repo](docs/images/1.10-ExamineRepo.png)
-- **1.11 Import Project:**
+- **1.11 Import Project:** Right click on **Working Tree**, then click **Import Projects...**![Import Project](docs/images/1.11-ImportProject.png)
 
 ## 2. Navigating the z/OS Connect EE Perspective
 
