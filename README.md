@@ -47,8 +47,9 @@ If you have any questions, feel free to leave an Issue on this GitHub repository
 - **1.9 Finish Cloning:** In the next window, leave the default options and click the **Finish** button. ![Finish Cloning](docs/images/1.9-FinishCloning.png)
 - **1.10 Examine Repository:** You should now see your repository in the **Git Repositories** view. Click the dropdown arrow to the left of the repository. Then click the dropdown arror next to the **Working Tree** section. _Note: The working tree shows the files and directories in the git repository._![Examine Repo](docs/images/1.10-ExamineRepo.png)
 - **1.11 Import Project:** Right click on **Working Tree**, then click **Import Projects...**![Import Project](docs/images/1.11-ImportProject.png)
-- **1.12 Click Archive:** In the pop-up window click the **Archive...** button at the top right.![Click Archive](docs/images/1.12-ClickArchive.png)
+- **1.12 Click Archive:** In the pop-up window, click the **Archive...** button at the top right.![Click Archive](docs/images/1.12-ClickArchive.png)
 - **1.13 Select the Zip File:** In the file explorer that opens, select the zip file that was included in the repository you cloned down. Then click the **Open** button.![Select Zip File](docs/images/1.13-SelectZipFile.png)
+- **1.14 Select Eclipse Project:** In the next pop-up window, select the option that has **Eclipse project** under the **Import as** section. _Optionally_ you can add a working set in the **Working Sets** section at the bottom of the window, but this is not needed. When done click the **Finish** button. ![Select Eclipse Project](docs/images/1.14-SelectEclipseProject.png)
 
 ## 2. Navigating the z/OS Connect EE Perspective
 
