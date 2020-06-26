@@ -50,6 +50,7 @@ If you have any questions, feel free to leave an Issue on this GitHub repository
 - **1.12 Click Archive:** In the pop-up window, click the **Archive...** button at the top right.![Click Archive](docs/images/1.12-ClickArchive.png)
 - **1.13 Select the Zip File:** In the file explorer that opens, select the zip file that was included in the repository you cloned down. Then click the **Open** button.![Select Zip File](docs/images/1.13-SelectZipFile.png)
 - **1.14 Select Eclipse Project:** In the next pop-up window, select the option that has **Eclipse project** under the **Import as** section. _Optionally_ you can add a working set in the **Working Sets** section at the bottom of the window, but this is not needed. When done click the **Finish** button. ![Select Eclipse Project](docs/images/1.14-SelectEclipseProject.png)
+- **1.15 Switch to z/OS Connect EE Perspective:** At the top of IBM Explorer for z/OS, click **Window** -> **Perspective** -> **Open Perspective** -> **Other...**![OpenZOSConnetPerspecitve](docs/images/1.15-OpenZOSConnectPerspective.png)
 
 ## 2. Navigating the z/OS Connect EE Perspective
 
