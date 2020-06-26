@@ -52,6 +52,7 @@ If you have any questions, feel free to leave an Issue on this GitHub repository
 - **1.14 Select Eclipse Project:** In the next pop-up window, select the option that has **Eclipse project** under the **Import as** section. _Optionally_ you can add a working set in the **Working Sets** section at the bottom of the window, but this is not needed. When done click the **Finish** button. ![Select Eclipse Project](docs/images/1.14-SelectEclipseProject.png)
 - **1.15 Switch to z/OS Connect EE Perspective:** At the top of IBM Explorer for z/OS, click **Window** -> **Perspective** -> **Open Perspective** -> **Other...**![OpenZOSConnetPerspecitve](docs/images/1.15-OpenZOSConnectPerspective.png)
 - **1.16 Select z/OS Connect EE Perspective:** Select **zOS Connect Enterprise Edition**, then click the **OK** button. ![SelectZOSConnectPerspecitve](docs/images/1.16-SelectZOSConnectPerspective.png)
+- **1.17 Project Explorer:** Once the z/OS Connect Enterprise Edition Perspective opens up, you should see the project we imported in the **Project Explorer** view on the left. If you expand all the directories in the project it should look like the picture below.![Project Explorer](docs/images/1.17-ProjectExplorer.png)
 
 ## 2. Navigating the z/OS Connect EE Perspective
 
