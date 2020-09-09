@@ -77,7 +77,15 @@ In this section we'll explain some of the different view in the z/OS Connect EE 
 
 **3\) Project Explorer**
 
--
+- This is a list of Service and API Projects that have either been created or imported into the toolkit.
+- When a project is created, it will appear in this section.
+- Projects are organized as folders with subfolders for some elements.
+  ![Project Example](docs/images/2.2.3-ProjectExample.png)
+- To open a Service for editing, double-click on the sercice.properties file inside the project folder.
+- To open an API for editing, double-click on the package.xml file inside the project folder.
+- To **deploy** a Service or API, right click on the project folder and choose **z/OS Connect EE -> Deploy**.
+
+**4\) Service/API Editor View**
 
 ## 3. Repository Organization best practices
 
