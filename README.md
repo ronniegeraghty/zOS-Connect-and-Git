@@ -87,6 +87,10 @@ In this section we'll explain some of the different view in the z/OS Connect EE 
 
 **4\) Service/API Editor View**
 
+- When a Service or API configuration file is opened, the contents appear in this section.
+  ![API Configuration](docs/images/2.2.4-APIConfiguration.png)
+- If any changes have been made an asterisk(\*) will appear in the tab, indicating that the project needs to be saved.
+
 ## 3. Repository Organization best practices
 
 ## 4. Working with Git
