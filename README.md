@@ -59,6 +59,25 @@ If you have any questions, feel free to leave an Issue on this GitHub repository
 In this section we'll explain some of the different view in the z/OS Connect EE Perspective. Each view within the perspective can be minimized, closed and/or moved as needed. To return to the default perspective setup, click **Window** -> **Perspective** -> **Reset Perspective**.
 
 - **2.1 Getting to the z/OS Connect EE Perspective:** You should already be in the z/OS Connect Persepective if you followed steps **1.15** & **1.16**. There is another way to navigate to the z/OS Connect Perspective if you've already opened it and have navigated away. You can click the z/OS Connect EE Icon in the top right. (The z/OS Connect EE Icon looks like an orange ball.) ![z/OS Connection EE Icon](docs/images/2.1.1-zosConnectIcon.png)
+- **2.2 The Default Perspective Apperance:** Below is a picture of the default composition of the z/OS Connect Perspective.
+  - _Each view(tab) within the perspective can be minimized, closed and/or moved as needed._
+  - _To return to the default after making changes, click **Window -> Perspective -> Reset Perspective**._
+
+![The Default Perspective](docs/images/2.2-TheDefaultPerspective.png)
+
+**1\) Shortcuts**
+
+- This is a pictoral menu of perspectives. It does not show all perspective that are available.
+- To open a perspective that is not appearing as a shortcut, click the ![Perspective Icon](docs/images/2.2.1-PerspectivesIcon.png) icon and a pop-up menu will appear.
+
+**2\) Toolbar**
+
+- Quick way to lauch some menu options
+- The left most icon ![New Project Icon](docs/images/2.2.2-NewProjectIcon.png) opens the pop-up menu to create a new project.
+
+**3\) Project Explorer**
+
+-
 
 ## 3. Repository Organization best practices
 
