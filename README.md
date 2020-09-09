@@ -56,6 +56,10 @@ If you have any questions, feel free to leave an Issue on this GitHub repository
 
 ## 2. Navigating the z/OS Connect EE Perspective
 
+In this section we'll explain some of the different view in the z/OS Connect EE Perspective. Each view within the perspective can be minimized, closed and/or moved as needed. To return to the default perspective setup, click **Window** -> **Perspective** -> **Reset Perspective**.
+
+- **2.1 Getting to the z/OS Connect EE Perspective:** You should already be in the z/OS Connect Persepective if you followed steps **1.15** & **1.16**. There is another way to navigate to the z/OS Connect Perspective if you've already opened it and have navigated away. You can click the z/OS Connect EE Icon in the top right. (The z/OS Connect EE Icon looks like an orange ball.) ![z/OS Connection EE Icon](docs/images/2.1.1-zosConnectIcon.png)
+
 ## 3. Repository Organization best practices
 
 ## 4. Working with Git
