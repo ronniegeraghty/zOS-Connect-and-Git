@@ -91,6 +91,14 @@ In this section we'll explain some of the different view in the z/OS Connect EE 
   ![API Configuration](docs/images/2.2.4-APIConfiguration.png)
 - If any changes have been made an asterisk(\*) will appear in the tab, indicating that the project needs to be saved.
 
+**5\) z/OS Connect EE Servers**
+
+- If you have configured access to a z/OS Connect EE server, then the server will appear in this section.
+- This view allows conected users to view Services and APIs that have ben deployed on the server.
+- Those with proper access rights (maintained by the z/OS Connect EE Administrator) will be able to start, stop and remove Services and APIs in this view.
+- This view also provides access to the SwaggerUI testing tool.
+  ![z/OS Connect Servers](docs/images/2.2.5-zOSConnectServers.png)
+
 ## 3. Repository Organization best practices
 
 ## 4. Working with Git
