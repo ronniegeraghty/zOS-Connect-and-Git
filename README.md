@@ -99,6 +99,18 @@ In this section we'll explain some of the different view in the z/OS Connect EE 
 - This view also provides access to the SwaggerUI testing tool.
   ![z/OS Connect Servers](docs/images/2.2.5-zOSConnectServers.png)
 
+**6\) Host Connections, etc.**
+
+- Host Connections - list of all the server connections available through the tool.
+  - Connections are categorized by system/subsystem (ex. z/OS Connect Enterprise Edition).
+  - A host connection must be made to a server before it will aprear in the z/OS Connect Servers view.
+- Properties - more information about a selected element
+  - Properties data is availbale for Projects, Services and APIs.
+  - Data for Services and APIs include the urls for invoking them
+- Progress - displays operations data
+- Problems - displays problem/error messages and details
+  - Good source of information if a project fails to save or deploy
+
 ## 3. Repository Organization best practices
 
 ## 4. Working with Git
